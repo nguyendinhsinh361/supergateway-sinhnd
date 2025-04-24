@@ -4,7 +4,7 @@
   "description": "Run MCP stdio servers over SSE or visa versa",
   "repository": {
     "type": "git",
-    "url": "https://www.npmjs.com/package/supergateway-sinhnd"
+    "url": "https://github.com/nguyendinhsinh361/supergateway-sinhnd"
   },
   "keywords": [
     "mcp",
